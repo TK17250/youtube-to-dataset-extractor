@@ -1,0 +1,11 @@
+[project]
+name = "yt-to-dataset"
+version = "1.0.0"
+description = "Extract frames from YouTube videos to create image datasets via CLI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "opencv-python>=4.13.0.92",
+    "rich>=15.0.0",
+    "yt-dlp>=2026.3.17",
+]

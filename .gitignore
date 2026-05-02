@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Generated datasets
+output/
+
+# Temporary downloads
+temp/
+
+# Media files
+*.mp4
+*.mkv
+*.webm
+*.avi
+
+# Archives
+*.zip
+
+video_list.json
